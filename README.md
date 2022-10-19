@@ -10,6 +10,8 @@ This full stack website is written in nodejs using mongodb as a detabase
 Api Written in Nodejs and using mongodb as database
 Frontend is written in vanillajs
 
+Customers can purchase items from the comfort of their own homes or workplace. Shopping is made easier and convenient for the customer through the internet. It is also easy to cancel the transactions. Online Shopping platform provides you with best quality of products as per your taste and preferences that is to be delivered at your doorstep. 
+
 After clone
 
 ## Setup
